@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="56" viewBox="0 0 680 56" fill="none" role="img" aria-label="Skills">
+  <defs>
+    <linearGradient id="t" x1="180" y1="28" x2="500" y2="28" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7EE8FF"/>
+      <stop offset="0.5" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#E8C547"/>
+    </linearGradient>
+  </defs>
+  <text x="340" y="36" text-anchor="middle" font-family="Segoe UI, Trebuchet MS, sans-serif" font-size="22" font-weight="700" letter-spacing="8" fill="url(#t)">TECH STACK</text>
+</svg>
