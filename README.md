@@ -181,7 +181,7 @@ Combines advanced AI engineering with an **MBA-level** understanding of business
       <img src="assets/icons/chroma.svg" width="44" alt="Chroma" /><br/><sub><b>Chroma</b></sub>
     </td>
     <td align="center" width="88">
-      <img src="https://cdn.simpleicons.org/weaviate/01CD82" width="44" height="44" alt="Weaviate" /><br/><sub><b>Weaviate</b></sub>
+      <img src="assets/icons/weaviate.svg" width="44" alt="Weaviate" /><br/><sub><b>Weaviate</b></sub>
     </td>
   </tr>
 </table>

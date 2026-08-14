@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Weaviate">
+  <rect width="64" height="64" rx="14" fill="#0B1020"/>
+  <path d="M32 12 L48 21.2 L32 30.4 L16 21.2 Z" fill="#4AE8A7"/>
+  <path d="M16 21.2 L32 30.4 L32 48.8 L16 39.6 Z" fill="#00A86B"/>
+  <path d="M48 21.2 L48 39.6 L32 48.8 L32 30.4 Z" fill="#01CD82"/>
+</svg>
