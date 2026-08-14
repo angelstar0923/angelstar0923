@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Computer Vision">
+  <defs>
+    <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#161B2E"/>
+      <stop offset="1" stop-color="#0B1020"/>
+    </linearGradient>
+    <radialGradient id="iris" cx="50%" cy="45%" r="55%">
+      <stop offset="0%" stop-color="#7EE8FF"/>
+      <stop offset="55%" stop-color="#3ECBFF"/>
+      <stop offset="100%" stop-color="#125E80"/>
+    </radialGradient>
+    <filter id="g" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="url(#tile)"/>
+  <rect x="6" y="6" width="244" height="244" rx="50" fill="none" stroke="#1C2744" stroke-width="2"/>
+  <rect x="48" y="58" width="70" height="52" rx="8" fill="none" stroke="#E8C547" stroke-width="3"/>
+  <rect x="148" y="154" width="62" height="46" rx="8" fill="none" stroke="#E8C547" stroke-width="3"/>
+  <circle cx="128" cy="128" r="52" fill="none" stroke="#3ECBFF" stroke-width="6" filter="url(#g)"/>
+  <circle cx="128" cy="128" r="34" fill="url(#iris)"/>
+  <circle cx="128" cy="128" r="14" fill="#0B1020"/>
+  <circle cx="118" cy="118" r="5" fill="#FFFFFF" opacity=".85"/>
+</svg>

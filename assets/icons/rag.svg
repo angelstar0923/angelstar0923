@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="RAG">
+  <defs>
+    <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#161B2E"/>
+      <stop offset="1" stop-color="#0B1020"/>
+    </linearGradient>
+    <filter id="g" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="url(#tile)"/>
+  <rect x="6" y="6" width="244" height="244" rx="50" fill="none" stroke="#1C2744" stroke-width="2"/>
+  <polygon points="128,46 196,85 196,163 128,202 60,163 60,85" fill="none" stroke="#E8C547" stroke-width="5" filter="url(#g)"/>
+  <circle cx="128" cy="46" r="7" fill="#E8C547"/>
+  <circle cx="196" cy="85" r="7" fill="#E8C547"/>
+  <circle cx="196" cy="163" r="7" fill="#E8C547"/>
+  <circle cx="128" cy="202" r="7" fill="#E8C547"/>
+  <circle cx="60" cy="163" r="7" fill="#E8C547"/>
+  <circle cx="60" cy="85" r="7" fill="#E8C547"/>
+  <rect x="92" y="78" width="72" height="92" rx="8" fill="#0B1020" stroke="#3ECBFF" stroke-width="5" filter="url(#g)"/>
+  <path d="M148 78 L164 94 L148 94 Z" fill="#3ECBFF"/>
+  <rect x="106" y="112" width="40" height="5" rx="2.5" fill="#3ECBFF" opacity=".95"/>
+  <rect x="106" y="126" width="32" height="5" rx="2.5" fill="#3ECBFF" opacity=".7"/>
+  <rect x="106" y="140" width="36" height="5" rx="2.5" fill="#3ECBFF" opacity=".55"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Fine-tuning">
+  <defs>
+    <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#161B2E"/>
+      <stop offset="1" stop-color="#0B1020"/>
+    </linearGradient>
+    <filter id="g" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="url(#tile)"/>
+  <rect x="6" y="6" width="244" height="244" rx="50" fill="none" stroke="#1C2744" stroke-width="2"/>
+  <circle cx="128" cy="86" r="10" fill="#E8C547" filter="url(#g)"/>
+  <circle cx="78" cy="118" r="10" fill="#E8C547" filter="url(#g)"/>
+  <circle cx="178" cy="118" r="10" fill="#E8C547" filter="url(#g)"/>
+  <circle cx="88" cy="176" r="10" fill="#3ECBFF" filter="url(#g)"/>
+  <circle cx="168" cy="176" r="10" fill="#3ECBFF" filter="url(#g)"/>
+  <circle cx="128" cy="128" r="14" fill="#7EE8FF" filter="url(#g)"/>
+  <path d="M128 86 L78 118 L88 176 L168 176 L178 118 Z" fill="none" stroke="#E8C547" stroke-width="3.5"/>
+  <path d="M128 86 L128 128 L78 118 M128 128 L178 118 M128 128 L88 176 M128 128 L168 176" fill="none" stroke="#3ECBFF" stroke-width="3" opacity=".9"/>
+  <rect x="70" y="122" width="116" height="14" rx="7" fill="#7B5CFF" stroke="#E8C547" stroke-width="2"/>
+  <circle cx="92" cy="129" r="4" fill="#E8C547"/>
+  <circle cx="128" cy="129" r="4" fill="#FFFFFF"/>
+  <circle cx="164" cy="129" r="4" fill="#E8C547"/>
+</svg>

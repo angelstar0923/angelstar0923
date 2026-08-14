@@ -1,19 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="28" viewBox="0 0 800 28" fill="none" role="img" aria-label="">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 36" fill="none" role="img">
   <defs>
-    <linearGradient id="line" x1="0" y1="14" x2="800" y2="14" gradientUnits="userSpaceOnUse">
+    <linearGradient id="line" x1="0" x2="800" y1="18" y2="18" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#3ECBFF" stop-opacity="0"/>
-      <stop offset="0.28" stop-color="#3ECBFF"/>
       <stop offset="0.5" stop-color="#E8C547"/>
-      <stop offset="0.72" stop-color="#3ECBFF"/>
       <stop offset="1" stop-color="#3ECBFF" stop-opacity="0"/>
     </linearGradient>
-    <radialGradient id="core" cx="400" cy="14" r="10" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#FFFFFF"/>
-      <stop offset="0.35" stop-color="#E8C547"/>
-      <stop offset="1" stop-color="#E8C547" stop-opacity="0"/>
-    </radialGradient>
   </defs>
-  <rect x="40" y="13" width="720" height="2" rx="1" fill="url(#line)"/>
-  <circle cx="400" cy="14" r="9" fill="url(#core)"/>
-  <circle cx="400" cy="14" r="3.2" fill="#0B1020" stroke="#E8C547" stroke-width="1.2"/>
+  <rect x="40" y="17" width="720" height="2" rx="1" fill="url(#line)"/>
+  <circle cx="400" cy="18" r="5" fill="#E8C547"/>
 </svg>

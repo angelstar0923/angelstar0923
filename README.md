@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="assets/banner.jpg" alt="AngelStar — AI Engineer" width="100%" />
+  <img src="assets/banner.png" alt="AngelStar — AI Engineer" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="assets/logo.jpg" width="88" alt="AngelStar emblem" />
+  <img src="assets/logo.svg" width="92" alt="AngelStar emblem" />
 </div>
 
 <h1 align="center">Hi, I'm AngelStar</h1>
@@ -27,9 +27,9 @@
   <img src="https://img.shields.io/badge/Strategy-MBA%20Mindset-7B5CFF?style=for-the-badge&labelColor=0B1020" alt="MBA mindset" />
 </p>
 
-<div align="center">
+<p align="center">
   <img src="assets/divider.svg" alt="" width="680" />
-</div>
+</p>
 
 ## About
 
@@ -40,57 +40,51 @@ Strong background in **Large Language Models**, **NLP**, **computer vision**, **
 Combines advanced AI engineering with an **MBA-level** understanding of business strategy, product development, operations, and data-driven decision-making.
 
 <p align="center">
-  <code>Python</code> · <code>PyTorch</code> · <code>Transformers</code> · <code>LangChain</code> · <code>FastAPI</code> · <code>Docker</code> · <code>Kubernetes</code> · <code>AWS</code>
-</p>
-
-<div align="center">
   <img src="assets/divider.svg" alt="" width="680" />
-</div>
+</p>
 
 ## What I Build
 
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="assets/project-rag.jpg" width="120" alt="RAG" /><br/>
+      <img src="assets/icons/rag.svg" width="110" alt="RAG" /><br/>
       <strong>RAG Systems</strong><br/>
       <sub>Grounded retrieval & generation</sub>
     </td>
     <td align="center" width="25%">
-      <img src="assets/project-finetune.jpg" width="120" alt="Fine-tuning" /><br/>
+      <img src="assets/icons/finetune.svg" width="110" alt="Fine-tuning" /><br/>
       <strong>Fine-Tuning</strong><br/>
       <sub>LoRA · QLoRA · eval harnesses</sub>
     </td>
     <td align="center" width="25%">
-      <img src="assets/project-agents.jpg" width="120" alt="Agents" /><br/>
+      <img src="assets/icons/agents.svg" width="110" alt="Agents" /><br/>
       <strong>AI Agents</strong><br/>
       <sub>Tools, state, production reliability</sub>
     </td>
     <td align="center" width="25%">
-      <img src="assets/project-cv.jpg" width="120" alt="Computer Vision" /><br/>
+      <img src="assets/icons/cv.svg" width="110" alt="Computer Vision" /><br/>
       <strong>Computer Vision</strong><br/>
       <sub>Detection · OCR · ViTs</sub>
     </td>
   </tr>
 </table>
 
-<div align="center">
+<p align="center">
   <img src="assets/divider.svg" alt="" width="680" />
-</div>
+</p>
 
-<div align="center">
-  <img src="assets/skills-header.svg" alt="Tech Stack" width="520" />
-</div>
+<h2 align="center">Tech Stack</h2>
 
-### Languages
+### Programming
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,java,bash&theme=dark" alt="Programming languages" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,javascript,typescript,java,bash,powershell&theme=dark&titles=true" alt="Programming icons" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
@@ -100,78 +94,105 @@ Combines advanced AI engineering with an **MBA-level** understanding of business
 ### AI & Machine Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,numpy,anaconda&theme=dark" alt="AI and machine learning icons" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,huggingface,scikitlearn,opencv,numpy,pandas,jupyter,matplotlib,anaconda&theme=dark&titles=true" alt="AI and machine learning icons" />
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="88">
+      <img src="assets/icons/xgboost.svg" width="44" alt="XGBoost" /><br/><sub><b>XGBoost</b></sub>
+    </td>
+  </tr>
+</table>
+
+### Generative AI & LLM Platforms
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/XGBoost-E85D04?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,llamaindex,huggingface,chatgpt,claude,gemini,mistral,ollama,crewai,groq,mcp,streamlit,gradio,prompts&theme=dark&titles=true" alt="Generative AI icons" />
 </p>
 
-### Generative AI
+<table align="center">
+  <tr>
+    <td align="center" width="88">
+      <img src="assets/icons/llama.svg" width="44" alt="Llama" /><br/><sub><b>Llama</b></sub>
+    </td>
+    <td align="center" width="88">
+      <img src="assets/icons/qwen.svg" width="44" alt="Qwen" /><br/><sub><b>Qwen</b></sub>
+    </td>
+    <td align="center" width="88">
+      <img src="assets/icons/openrouter.svg" width="44" alt="OpenRouter" /><br/><sub><b>OpenRouter</b></sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LLMs-3ECBFF?style=for-the-badge&labelColor=0B1020" alt="LLMs" />
   <img src="https://img.shields.io/badge/RAG-E8C547?style=for-the-badge&labelColor=0B1020" alt="RAG" />
   <img src="https://img.shields.io/badge/AI%20Agents-7B5CFF?style=for-the-badge&labelColor=0B1020" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Anthropic-D4A27F?style=for-the-badge&logo=anthropic&logoColor=black" alt="Anthropic" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Llama-08708A?style=for-the-badge" alt="Llama" />
-  <img src="https://img.shields.io/badge/Mistral-F7D046?style=for-the-badge&logo=mistralai&logoColor=black" alt="Mistral" />
-  <img src="https://img.shields.io/badge/Qwen-6A1B9A?style=for-the-badge" alt="Qwen" />
-  <img src="https://img.shields.io/badge/OpenRouter-6B4EFF?style=for-the-badge" alt="OpenRouter" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-3ECBFF?style=for-the-badge&labelColor=0B1020" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/Embeddings-E8C547?style=for-the-badge&labelColor=0B1020" alt="Embeddings" />
-  <img src="https://img.shields.io/badge/LoRA%20%2F%20QLoRA-3ECBFF?style=for-the-badge&labelColor=0B1020" alt="LoRA QLoRA" />
+  <img src="https://img.shields.io/badge/Fine--Tuning-E8C547?style=for-the-badge&labelColor=0B1020" alt="Fine-Tuning" />
+  <img src="https://img.shields.io/badge/LoRA-3ECBFF?style=for-the-badge&labelColor=0B1020" alt="LoRA" />
+  <img src="https://img.shields.io/badge/QLoRA-7B5CFF?style=for-the-badge&labelColor=0B1020" alt="QLoRA" />
   <img src="https://img.shields.io/badge/RLHF-E8C547?style=for-the-badge&labelColor=0B1020" alt="RLHF" />
+  <img src="https://img.shields.io/badge/Embeddings-3ECBFF?style=for-the-badge&labelColor=0B1020" alt="Embeddings" />
 </p>
 
 ### NLP
 
 <p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface,elasticsearch,python,pytorch&theme=dark&titles=true" alt="NLP icons" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Text%20Classification-0B1020?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Text Classification" />
-  <img src="https://img.shields.io/badge/NER-0B1020?style=for-the-badge&logo=googlecloud&logoColor=3ECBFF" alt="Named Entity Recognition" />
+  <img src="https://img.shields.io/badge/NER-0B1020?style=for-the-badge&logo=googlecloud&logoColor=3ECBFF" alt="NER" />
   <img src="https://img.shields.io/badge/Semantic%20Search-0B1020?style=for-the-badge&logo=elasticsearch&logoColor=E8C547" alt="Semantic Search" />
-  <img src="https://img.shields.io/badge/Information%20Extraction-0B1020?style=for-the-badge&logoColor=white" alt="Information Extraction" />
+  <img src="https://img.shields.io/badge/Information%20Extraction-0B1020?style=for-the-badge" alt="Information Extraction" />
   <img src="https://img.shields.io/badge/Sentiment%20Analysis-0B1020?style=for-the-badge&logo=probot&logoColor=white" alt="Sentiment Analysis" />
 </p>
 
 ### Computer Vision
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Image%20Classification-0B1020?style=for-the-badge&logo=opencv&logoColor=3ECBFF" alt="Image Classification" />
-  <img src="https://img.shields.io/badge/Object%20Detection-0B1020?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="Object Detection" />
-  <img src="https://img.shields.io/badge/Image%20Segmentation-0B1020?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="Image Segmentation" />
-  <img src="https://img.shields.io/badge/OCR-0B1020?style=for-the-badge&logo=tesseract&logoColor=E8C547" alt="OCR" />
-  <img src="https://img.shields.io/badge/CNNs-3ECBFF?style=for-the-badge&labelColor=0B1020" alt="CNNs" />
-  <img src="https://img.shields.io/badge/Vision%20Transformers-E8C547?style=for-the-badge&labelColor=0B1020" alt="Vision Transformers" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv,pytorch,tensorflow,huggingface&theme=dark&titles=true" alt="Computer vision icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Image%20Classification-3ECBFF?style=for-the-badge&labelColor=0B1020" alt="Image Classification" />
+  <img src="https://img.shields.io/badge/Object%20Detection-E8C547?style=for-the-badge&labelColor=0B1020" alt="Object Detection" />
+  <img src="https://img.shields.io/badge/Image%20Segmentation-7B5CFF?style=for-the-badge&labelColor=0B1020" alt="Image Segmentation" />
+  <img src="https://img.shields.io/badge/OCR-3ECBFF?style=for-the-badge&labelColor=0B1020" alt="OCR" />
+  <img src="https://img.shields.io/badge/CNNs-E8C547?style=for-the-badge&labelColor=0B1020" alt="CNNs" />
+  <img src="https://img.shields.io/badge/Vision%20Transformers-7B5CFF?style=for-the-badge&labelColor=0B1020" alt="Vision Transformers" />
 </p>
 
 ### Vector Databases
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pinecone-1ACA9A?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
-  <img src="https://img.shields.io/badge/FAISS-0B1020?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
-  <img src="https://img.shields.io/badge/Chroma-FC8181?style=for-the-badge" alt="Chroma" />
-  <img src="https://img.shields.io/badge/Weaviate-01CD82?style=for-the-badge&logo=weaviate&logoColor=white" alt="Weaviate" />
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pinecone,qdrant,milvus,elasticsearch,lancedb&theme=dark&titles=true" alt="Vector database icons" />
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="88">
+      <img src="assets/icons/faiss.svg" width="44" alt="FAISS" /><br/><sub><b>FAISS</b></sub>
+    </td>
+    <td align="center" width="88">
+      <img src="assets/icons/chroma.svg" width="44" alt="Chroma" /><br/><sub><b>Chroma</b></sub>
+    </td>
+    <td align="center" width="88">
+      <img src="https://cdn.simpleicons.org/weaviate/01CD82" width="44" height="44" alt="Weaviate" /><br/><sub><b>Weaviate</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Backend & APIs
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react,html,css&theme=dark" alt="Backend and API icons" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,flask,react,nodejs,html,css,websocket,nginx,postman&theme=dark&titles=true" alt="Backend and API icons" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/REST%20APIs-E8C547?style=for-the-badge&labelColor=0B1020" alt="REST APIs" />
   <img src="https://img.shields.io/badge/Microservices-3ECBFF?style=for-the-badge&labelColor=0B1020" alt="Microservices" />
   <img src="https://img.shields.io/badge/WebSockets-7B5CFF?style=for-the-badge&labelColor=0B1020" alt="WebSockets" />
@@ -180,48 +201,48 @@ Combines advanced AI engineering with an **MBA-level** understanding of business
 ### Data Engineering & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka&theme=dark" alt="Database and data engineering icons" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mongodb,redis,kafka,spark,pandas,numpy,airflow,duckdb&theme=dark&titles=true" alt="Data engineering icons" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
   <img src="https://img.shields.io/badge/ETL%20Pipelines-3ECBFF?style=for-the-badge&labelColor=0B1020" alt="ETL Pipelines" />
 </p>
 
 ### Cloud, MLOps & DevOps
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux,git,githubactions&theme=dark" alt="Cloud MLOps and DevOps icons" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,docker,kubernetes,linux,git,github,githubactions,mlflow,wandb,nvidia,cuda&theme=dark&titles=true" alt="Cloud MLOps and DevOps icons" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="88">
+      <img src="https://cdn.simpleicons.org/dvc/945DD6" width="44" height="44" alt="DVC" /><br/><sub><b>DVC</b></sub>
+    </td>
+    <td align="center" width="88">
+      <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="44" height="44" alt="MLflow" /><br/><sub><b>MLflow</b></sub>
+    </td>
+    <td align="center" width="88">
+      <img src="https://cdn.simpleicons.org/weightsandbiases/FFBE00" width="44" height="44" alt="Weights & Biases" /><br/><sub><b>W&B</b></sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Model%20Monitoring-E8C547?style=for-the-badge&labelColor=0B1020" alt="Model Monitoring" />
+  <img src="https://img.shields.io/badge/CI%2FCD-3ECBFF?style=for-the-badge&labelColor=0B1020" alt="CI/CD" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
-  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="Weights and Biases" />
-  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
-
-<div align="center">
   <img src="assets/divider.svg" alt="" width="680" />
-</div>
+</p>
 
 ## Featured Projects
 
 <table>
   <tr>
     <td align="center" valign="top" width="50%">
-      <img src="assets/project-rag.jpg" width="220" alt="Enterprise RAG Platform icon" />
+      <img src="assets/project-rag.png" width="200" alt="Enterprise RAG Platform" />
       <h3>Enterprise Retrieval-Augmented Generation Platform</h3>
       <p>
         <img src="https://img.shields.io/badge/RAG-E8C547?style=flat-square&labelColor=0B1020" alt="RAG" />
@@ -236,7 +257,7 @@ Combines advanced AI engineering with an **MBA-level** understanding of business
       </p>
     </td>
     <td align="center" valign="top" width="50%">
-      <img src="assets/project-finetune.jpg" width="220" alt="LLM Fine-Tuning icon" />
+      <img src="assets/project-finetune.png" width="200" alt="LLM Fine-Tuning" />
       <h3>LLM Fine-Tuning and Evaluation System</h3>
       <p>
         <img src="https://img.shields.io/badge/LoRA-3ECBFF?style=flat-square&labelColor=0B1020" alt="LoRA" />
@@ -253,7 +274,7 @@ Combines advanced AI engineering with an **MBA-level** understanding of business
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
-      <img src="assets/project-agents.jpg" width="220" alt="AI Agent Platform icon" />
+      <img src="assets/project-agents.png" width="200" alt="AI Agent Platform" />
       <h3>AI Agent Automation Platform</h3>
       <p>
         <img src="https://img.shields.io/badge/Agents-7B5CFF?style=flat-square&labelColor=0B1020" alt="Agents" />
@@ -267,7 +288,7 @@ Combines advanced AI engineering with an **MBA-level** understanding of business
       </p>
     </td>
     <td align="center" valign="top" width="50%">
-      <img src="assets/project-cv.jpg" width="220" alt="Computer Vision icon" />
+      <img src="assets/project-cv.png" width="200" alt="Computer Vision" />
       <h3>Computer Vision Recognition System</h3>
       <p>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
@@ -283,9 +304,9 @@ Combines advanced AI engineering with an **MBA-level** understanding of business
   </tr>
 </table>
 
-<div align="center">
+<p align="center">
   <img src="assets/divider.svg" alt="" width="680" />
-</div>
+</p>
 
 ## GitHub Analytics
 
@@ -302,12 +323,12 @@ Combines advanced AI engineering with an **MBA-level** understanding of business
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelStar0923&bg_color=050814&color=E8C547&line=3ECBFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" />
 </p>
 
-<div align="center">
+<p align="center">
   <img src="assets/divider.svg" alt="" width="680" />
-</div>
+</p>
 
 <p align="center">
-  <img src="assets/logo.jpg" width="42" alt="AngelStar" /><br/>
+  <img src="assets/logo.svg" width="46" alt="AngelStar" /><br/>
   <strong>Building AI that ships — and scales.</strong><br/>
   <sub>LLMs · RAG · Agents · Vision · Production ML</sub>
 </p>

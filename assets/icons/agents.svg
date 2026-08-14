@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="AI Agents">
+  <defs>
+    <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#161B2E"/>
+      <stop offset="1" stop-color="#0B1020"/>
+    </linearGradient>
+    <filter id="g" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="url(#tile)"/>
+  <rect x="6" y="6" width="244" height="244" rx="50" fill="none" stroke="#1C2744" stroke-width="2"/>
+  <path d="M128 72 L186 176 L70 176 Z" fill="none" stroke="#3ECBFF" stroke-width="4" opacity=".85" filter="url(#g)"/>
+  <circle cx="128" cy="72" r="22" fill="#0B1020" stroke="#3ECBFF" stroke-width="5" filter="url(#g)"/>
+  <circle cx="186" cy="176" r="22" fill="#0B1020" stroke="#E8C547" stroke-width="5" filter="url(#g)"/>
+  <circle cx="70" cy="176" r="22" fill="#0B1020" stroke="#B388FF" stroke-width="5" filter="url(#g)"/>
+  <circle cx="128" cy="72" r="8" fill="#3ECBFF"/>
+  <circle cx="186" cy="176" r="8" fill="#E8C547"/>
+  <circle cx="70" cy="176" r="8" fill="#B388FF"/>
+  <circle cx="128" cy="138" r="10" fill="#FFFFFF" filter="url(#g)"/>
+  <circle cx="128" cy="138" r="4.5" fill="#0B1020"/>
+</svg>
