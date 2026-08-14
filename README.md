@@ -312,7 +312,7 @@ Combines advanced AI engineering with an **MBA-level** understanding of business
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=AngelStar0923&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050814&title_color=E8C547&icon_color=3ECBFF&text_color=E8EEF7&ring_color=3ECBFF" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=AngelStar0923&hide_border=true&background=050814&ring=E8C547&fire=3ECBFF&currStreakLabel=E8C547&sideLabels=E8EEF7&dates=8A93A6&stroke=1C2744" alt="GitHub streak" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=AngelStar0923&hide_border=true&background=050814&ring=E8C547&fire=3ECBFF&currStreakLabel=E8C547&sideLabels=E8EEF7&dates=8A93A6&stroke=1C2744" alt="GitHub streak"/>
 </p>
 
 <p align="center">
