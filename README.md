@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" alt="AngelStar — AI Engineer" width="100%" />
+  <img src="assets/bg_banner.png" alt="AngelStar — AI Engineer" width="100%" />
 </div>
 
 <br/>
